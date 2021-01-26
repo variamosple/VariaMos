@@ -1,5 +1,3 @@
-[[_TOC_]]
-
 # Main Branch
 
 ![Unit Tests](https://github.com/VariaMosORG/VariaMos/workflows/Unit%20Tests/badge.svg?branch=main)
