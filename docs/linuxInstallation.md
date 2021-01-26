@@ -12,6 +12,7 @@ sudo apt-get install \
     gnupg-agent \
     software-properties-common
 ```
+
 2. Add Docker’s official GPG key:
 
 ```
@@ -19,6 +20,7 @@ curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
 
 sudo apt-key fingerprint 0EBFCD88
 ```
+
 3. Use the following command to set up the stable repository
 
 ```
@@ -35,10 +37,13 @@ sudo apt-get update
 
 sudo apt-get install docker-ce docker-ce-cli containerd.io
 ```
+
 5. Start Docker service
+
 ```
 sudo service docker start
 ```
+
 # Run Variamos container
 
 ```
