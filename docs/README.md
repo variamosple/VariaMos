@@ -6,9 +6,9 @@
 
 ![Publish Docker Images](https://github.com/VariaMosORG/VariaMos/workflows/Publish%20Docker%20Images/badge.svg)
 
-## VariaMos online
+# VariaMos online
 You can check the VariaMos application here: [www.variamos.com](http://193.52.45.42/#//)
 
-## VariaMos documentation
+# VariaMos documentation
 VariaMos documentation can be found here: [GitHub-Pages](https://variamosple.github.io/VariaMos/)
 
