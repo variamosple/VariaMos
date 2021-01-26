@@ -1,4 +1,6 @@
-**Main Branch**
+[[_TOC_]]
+
+# Main Branch
 
 ![Unit Tests](https://github.com/VariaMosORG/VariaMos/workflows/Unit%20Tests/badge.svg?branch=main)
 
@@ -8,3 +10,7 @@
 
 ## VariaMos online
 You can check the VariaMos application here: [www.variamos.com](http://193.52.45.42/#//)
+
+## VariaMos documentation
+VariaMos documentation can be found here: [GitHub-Pages](https://variamosple.github.io/VariaMos/)
+
