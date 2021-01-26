@@ -1,3 +1,3 @@
 # Admin documentation
 
-* [Install Docker in Linux with Ubuntu/Debian distriution](docs\adminDocs\linuxInstallation.md)
+* [Install Docker in Linux with Ubuntu/Debian distriution](linuxInstallation.md)

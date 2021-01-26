@@ -12,4 +12,4 @@ You can check the VariaMos application here: [www.variamos.com](http://193.52.45
 # VariaMos documentation
 VariaMos documentation can be found here: [GitHub-Pages](https://variamosple.github.io/VariaMos/)
 
-# [Admin documentation](docs\adminDocs\README.md)
+# [Admin documentation](adminDocs\README.md)
