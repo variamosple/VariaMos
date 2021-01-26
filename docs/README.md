@@ -12,4 +12,6 @@ You can check the VariaMos application here: [www.variamos.com](http://193.52.45
 # VariaMos documentation
 VariaMos documentation can be found here: [GitHub-Pages](https://variamosple.github.io/VariaMos/)
 
-# [Admin documentation](adminDocs\README.md)
+# Admin documentation
+
+* [Install Docker in Linux with Ubuntu/Debian distriution](linuxInstallation.md)
