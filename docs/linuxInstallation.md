@@ -35,12 +35,10 @@ sudo apt-get update
 
 sudo apt-get install docker-ce docker-ce-cli containerd.io
 ```
-
 5. Start Docker service
 ```
 sudo service docker start
 ```
-
 # Run Variamos container
 
 ```
