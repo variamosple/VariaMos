@@ -1,1 +1,1 @@
-# [Variamos documentation](https://variamosple.github.io/VariaMos/)
+# [Variamos documentation](https://github.com/variamosple/VariaMos/wiki/)
