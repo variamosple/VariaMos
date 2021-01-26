@@ -46,6 +46,6 @@
 
 # Run Variamos container
 
-```
-docker run -dp 80:80 --name variamos danielgara/variamos
-```
+    ```
+    docker run -dp 80:80 --name variamos danielgara/variamos
+    ```
