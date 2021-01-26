@@ -46,6 +46,8 @@
 
 # Run Variamos container
 
+1. From shell run the next command
+
     ```
     docker run -dp 80:80 --name variamos danielgara/variamos
     ```
